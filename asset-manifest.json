@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ticking-clock-app/static/css/main.abd64e84.css",
+    "main.js": "/react-ticking-clock-app/static/js/main.a7aac817.js",
+    "index.html": "/react-ticking-clock-app/index.html",
+    "main.abd64e84.css.map": "/react-ticking-clock-app/static/css/main.abd64e84.css.map",
+    "main.a7aac817.js.map": "/react-ticking-clock-app/static/js/main.a7aac817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.a7aac817.js"
+  ]
+}
