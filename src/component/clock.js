@@ -1,3 +1,6 @@
+/*==================================================
+/src/component/clock.js
+==================================================*/
 import React from "react";
 
 // *** Reference: REACT DOC SECTION 5 - State and Lifecycle ***
